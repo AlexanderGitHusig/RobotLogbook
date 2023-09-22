@@ -12,3 +12,8 @@ Vi fik lavet studypoint opgave med lyskryds vha. en enum samt switchcase. Stepmo
 
 19-09-2023
 Vi gennengik interface af Openscad moddelering
+
+22-09-2023
+Vi påbegyndte nyt project, hvor vi skal ende med at have et cutout til at kunne holde en motor til togvogne.
+Vi fik færdiggjort hovedrektanglen hvor vi benyttede 2 cirkler med hull metode for at få runde hjørner. 
+Vi fik også lavet størstedelen af extension i bunden af motoren.
